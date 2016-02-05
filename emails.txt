@@ -1,11 +1,13 @@
 0815.ru
 0wnd.net
 0wnd.org
+10mail.org
 10minutemail.co.za
 10minutemail.com
 123-m.com
 1fsdfdsfsdf.tk
 1pad.de
+20email.eu
 20mail.eu
 20mail.it
 20minutemail.com
@@ -79,6 +81,7 @@ courriel.fr.nf
 courrieltemporaire.com
 crapmail.org
 cust.in
+curryworld.de
 cuvox.de
 d3p.dk
 dacoolest.com
@@ -94,6 +97,7 @@ devnullmail.com
 dfgh.net
 digitalsanctuary.com
 dingbone.com
+discardmail.com
 disposableaddress.com
 disposableemailaddresses.com
 disposableinbox.com
@@ -187,6 +191,7 @@ hidemail.de
 hidzz.com
 hmamail.com
 hopemail.biz
+hotpop.com
 iaoss.com
 ieh-mail.de
 ikbenspamvrij.nl
@@ -196,11 +201,13 @@ inbox.si
 inboxalias.com
 inboxclean.com
 inboxclean.org
+incognitomail.com
 infocom.zp.ua
 instant-mail.de
 ip6.li
 irish2me.com
 iwi.net
+jamit.com.au
 jetable.com
 jetable.fr.nf
 jetable.net
@@ -334,6 +341,7 @@ nospam.ze.tc
 nospam4.us
 nospamfor.us
 nospammail.net
+no-spam.ws
 notmailinator.com
 nowhere.org
 nowmymail.com
@@ -362,10 +370,12 @@ privacy.net
 privatdemail.net
 proxymail.eu
 prtnx.com
+punkass.com
 putthisinyourspamdatabase.com
 pwrby.com
 qq.com
 quickinbox.com
+quickmail.nl
 rcpt.at
 reallymymail.com
 realtyalerts.ca
@@ -386,6 +396,7 @@ schafmail.de
 schrott-email.de
 secretemail.de
 secure-mail.biz
+sendspamhere.com
 senseless-entertainment.com
 services391.com
 sharklasers.com
@@ -457,6 +468,10 @@ talkinator.com
 teewars.org
 teleworm.com
 teleworm.us
+teleosaurs.xyz
+teleworm.com
+teleworm.us
+tempalias.com
 temp-mail.org
 temp-mail.ru
 tempe-mail.com
@@ -476,6 +491,7 @@ temporaryinbox.com
 temporarymailaddress.com
 tempthe.net
 thankyou2010.com
+thrma.com
 thc.st
 thelimestones.com
 thisisnotmyrealemail.com
@@ -547,6 +563,7 @@ xmaily.com
 xoxy.net
 yep.it
 yogamaven.com
+yomail.info
 yopmail.com
 yopmail.fr
 yopmail.net
