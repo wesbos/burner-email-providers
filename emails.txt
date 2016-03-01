@@ -131,6 +131,7 @@ dispose.it
 disposeamail.com
 disposemail.com
 dispostable.com
+dlemail.ru
 dm.w3internet.co.ukexample.com
 dodgeit.com
 dodgit.com
@@ -205,6 +206,7 @@ filzmail.com
 fivemail.de
 fizmail.com
 fleckens.hu
+flemail.ru
 fr33mail.info
 frapmail.com
 friendlymail.co.uk
@@ -528,6 +530,7 @@ shitmail.me
 shitware.nl
 shmeriously.com
 shortmail.net
+shotmail.ru
 sibmail.com
 sinnlos-mail.de
 skeefmail.com
@@ -694,6 +697,7 @@ vkcode.ru
 vpn.st
 vsimcard.com
 vubby.com
+walkmail.ru
 wasteland.rfc822.org
 webemail.me
 webm4il.info
