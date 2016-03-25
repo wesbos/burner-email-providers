@@ -38,7 +38,7 @@
 75hosting.org
 7tags.com
 9ox.net
-Disposableemailaddresses:emailmiser.com
+emailmiser.com
 PutThisInYourSpamDatabase.com
 SendSpamHere.com
 TempEMail.net
