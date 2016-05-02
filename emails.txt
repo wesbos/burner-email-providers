@@ -405,6 +405,7 @@ ip6.li
 ipoo.org
 irelandmail.com
 irish2me.com
+irishspringrealty.com
 israelmail.com
 italymail.com
 iwi.net
@@ -531,7 +532,7 @@ mbx.cc
 mega.zik.dj
 meinspamschutz.de
 meltmail.com
-meltmail.com 
+meltmail.com 
 messagebeamer.de
 metalfan.com
 mexicomail.com
@@ -661,7 +662,7 @@ proxymail.eu
 prtnx.com
 publicist.com
 punkass.com
-PutThisInYourSpamDatabase.com
+putthisinyourspamdatabase.com
 pwrby.com
 qoika.com
 qq.com
@@ -751,7 +752,7 @@ solvemail.info
 songwriter.net
 soodonims.com
 spa.com
-spaerePlease.com
+spaereplease.com
 spainmail.com
 spam.la
 spam.su
@@ -840,7 +841,7 @@ tempe-mail.com
 tempemail.biz
 tempemail.co.za
 tempemail.com
-TempEMail.net
+tempemail.net
 tempinbox.co.uk
 tempinbox.com
 tempmail.eu
@@ -975,7 +976,7 @@ zehnminuten.de
 zehnminutenmail.de
 zetmail.com
 zippymail.info
-zippymail.info 
+zippymail.info 
 zoaxe.com
 zoemail.net
 zoemail.org
