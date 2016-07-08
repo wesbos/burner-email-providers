@@ -1,8 +1,6 @@
 0-mail.com
 0815.ru
 0clickemail.com
-0wnd.net
-0wnd.org
 10mail.org
 10minut.com.pl
 10minutemail.co.za
@@ -289,8 +287,6 @@ imgof.com
 inbax.tk
 inbox.si
 inboxalias.com
-inboxclean.com
-inboxclean.org
 incognitomail.com
 incognitomail.net
 incognitomail.org
@@ -429,7 +425,6 @@ mt2009.com
 mt2014.com
 mx0.wwwnew.eu
 mycard.net.ua
-mycleaninbox.net
 mymail-in.net
 mypacks.net
 mypartyclip.de
@@ -599,9 +594,6 @@ spamfree24.info
 spamfree24.net
 spamfree24.org
 spamgoes.in
-spamgourmet.com
-spamgourmet.net
-spamgourmet.org
 spamherelots.com
 spamhereplease.com
 spamhole.com
