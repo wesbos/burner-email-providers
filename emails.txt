@@ -17,6 +17,7 @@
 20email.eu
 20mail.eu
 20mail.it
+20minute.email
 20minutemail.com
 2120001.net
 21cn.com
@@ -463,6 +464,7 @@ hmamail.com
 hoanggiaanh.com
 hochsitze.com
 hopemail.biz
+hostcalls.com
 hostmonitor.net
 hotpop.com
 hulapla.de
@@ -685,8 +687,10 @@ miodonski.ch
 miraigames.net
 misterpinball.de
 mmailinater.com
+moakt.ws
 moburl.com
 mockmyid.com
+mohmal.im
 mohmal.com
 momentics.ru
 moncourrier.fr.nf
@@ -710,6 +714,7 @@ mustbedestroyed.org
 mvrht.com
 mwarner.org
 mx0.wwwnew.eu
+my10minutemail.com
 mycard.net.ua
 mycleaninbox.net
 mycorneroftheinter.net
@@ -846,6 +851,7 @@ raetp9.com
 rainwaterstudios.org
 raketenmann.de
 rawhidefc.org
+rawmails.com
 rcpt.at
 reallymymail.com
 realtyalerts.ca
@@ -869,6 +875,7 @@ rklips.com
 rmqkr.net
 rnailinator.com
 ronnierage.net
+rootfest.net
 rotaniliam.com
 royal.net
 rppkn.com
@@ -1017,6 +1024,7 @@ tagmymedia.com
 takedowns.org
 talkinator.com
 tanukis.org
+taosjw.com
 taskforcetech.com
 tdf-illustration.com
 teewars.org
