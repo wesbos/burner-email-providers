@@ -913,6 +913,7 @@ shhmail.com
 shhuut.org
 shieldemail.com
 shiftmail.com
+shitmail.de
 shitmail.me
 shitware.nl
 shmeriously.com
@@ -1045,6 +1046,7 @@ tempinbox.com
 tempmail.de
 tempmail.eu
 tempmail.it
+temp-mail.de
 temp-mail.org
 temp-mail.ru
 tempmail2.com
