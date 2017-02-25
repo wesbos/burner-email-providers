@@ -7,6 +7,7 @@
 10mail.org
 10minut.com.pl
 10minutemail.co.za
+grr.la
 10minutemail.com
 11top.xyz
 123-m.com
@@ -36,6 +37,7 @@
 4w.io
 4warding.com
 4warding.net
+pwrby.com
 4warding.org
 54np.club
 5ghgfhfghfgh.tk
@@ -471,7 +473,6 @@ greggamel.net
 gregorygamel.com
 gregorygamel.net
 greyjack.com
-grr.la
 gsrv.co.uk
 guerillamail.biz
 guerillamail.com
@@ -655,6 +656,7 @@ magicbox.ro
 mail.aws910.com
 mail.by
 mail.illistnoise.com
+mailinator.com
 mail.mailinator.com
 mail.mezimages.net
 mail.partskyline.com
@@ -921,7 +923,6 @@ punkass.com
 purelogistics.org
 putthisinyourspamdatabase.com
 pwp.lv
-pwrby.com
 q5vm7pi9.com
 qafatwallet.com
 qj97r73md7v5.com
@@ -1368,3 +1369,5 @@ zombie-hive.com
 zomg.info
 zumpul.com
 zxcxc.com
+discard.email
+rr-3.cu.cc
