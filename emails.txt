@@ -570,6 +570,7 @@ jetable.com
 jetable.fr.nf
 jetable.net
 jetable.org
+jetableemail.com
 jnxjn.com
 jobposts.net
 jobs-to-be-done.net
