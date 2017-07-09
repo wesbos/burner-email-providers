@@ -6,7 +6,12 @@ I'm okay with people using burner email addresses to get my free content, I just
 
 Please send a PR with any new ones you find. 
 
-Thinking about adding a JSON api as well - let me know if this would be useful.
+## APIs
+
+### Free
+
+* [DEA Guard](https://deamails.altervista.org/)
+* [Disposable](https://github.com/0x19/disposable)
 
 
 
