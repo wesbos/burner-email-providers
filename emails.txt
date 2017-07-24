@@ -824,6 +824,7 @@ discard.tk
 discard-email.cf
 discardmail.com
 discardmail.de
+discordmail.com
 disign-concept.eu
 disign-revelation.com
 dispo.in
