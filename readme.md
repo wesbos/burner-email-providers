@@ -1,4 +1,4 @@
-# A list of burner email addresses
+# A list of burner email providers
 
 Throw away email addresses (burner emails) are great for single use signups where you would like the content but rather not give up your email.
 
