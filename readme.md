@@ -10,7 +10,7 @@ Please send a PR with any new ones you find.
 
 ### Free
 
-* [DEA Guard](https://deamails.altervista.org/)
+* [DEA Guard](https://www.deaguard.eu.org)
 * [Disposable](https://github.com/0x19/disposable)
 
 
