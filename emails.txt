@@ -870,6 +870,7 @@ dinkmail.com
 disaq.com
 disario.info
 disbox.org
+disbox.net
 discard.cf
 discard.email
 discard.ga
