@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "name": "burner-email-providers",
+    "version": "1.0.0-RC",
+    "description": "A list of burner email providers.",
+    "license": "UNLICENSED",
+    "author": "Wes Bos & contributors",
+    "repository": "https://github.com/wesbos/burner-email-providers",
+    "files": [
+        "emails.txt"
+    ],
+    "keywords": [ "email" ]
+}
