@@ -12,5 +12,9 @@ Please send a PR with any new ones you find.
 
 * [Disposable](https://github.com/0x19/disposable)
 
+## Libraries
 
+### Elixir
+
+* [Burnex](https://github.com/Betree/burnex)
 
