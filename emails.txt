@@ -1163,6 +1163,7 @@ evyush.com
 ewa.kr
 example.com
 exi.kr
+existiert.net
 exitstageleft.net
 explodemail.com
 express.net.ua
@@ -2001,6 +2002,7 @@ macromaid.com
 magamail.com
 maggotymeat.ga
 magicbox.ro
+magspam.net
 maidlow.info
 mail.aws910.com
 mail.bccto.com
@@ -2309,10 +2311,15 @@ muathegame.com
 muchomail.com
 mucincanon.com
 muehlacker.tk
+muellemail.com
+muellmail.com
 muell.email
 mufux.com
 mugglenet.org
 muimail.com
+müll.email
+müllmail.com
+müllemail.com
 munoubengoshi.gq
 mustbedestroyed.org
 mutant.me
@@ -2564,6 +2571,7 @@ pagamenti.tk
 pakadebu.ga
 paller.cf
 pancakemail.com
+papierkorb.me
 paplease.com
 parkcrestlakewood.xyz
 parlimentpetitioner.tk
@@ -2999,6 +3007,7 @@ soon.it
 sosmanga.com
 spa.com
 spaereplease.com
+spam.care
 spam.flu.cc
 spam.igg.biz
 spam.la
@@ -3444,6 +3453,7 @@ ujijima1129.gq
 uk.to
 ukexample.com
 uko.kr
+ultra.fyi
 umail.net
 umy.kr
 undo.it
