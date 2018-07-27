@@ -8,6 +8,7 @@
 0box.eu
 0clickemail.com
 0hdear.com
+0mel.com
 0mixmail.info
 0u.ro
 0v.ro
@@ -44,6 +45,7 @@
 10minutesmail.fr
 10minutesmail.net
 10minutesmail.ru
+10minut.xyz
 10vpn.info
 10x.es
 10x9.com
@@ -97,6 +99,7 @@
 2ch.orgs.hk
 2ether.net
 2fdgdfgdfgdf.tk
+2nd-mail.xyz
 2odem.com
 2prong.com
 2sea.org
@@ -1653,6 +1656,7 @@ ieh-mail.de
 ige.es
 igg.biz
 ignoremail.com
+instance-email.com
 ihateyoualot.info
 ihaxyour.info
 ihazspam.ca
@@ -1783,6 +1787,7 @@ jetable.pp.ua
 jetableemail.com
 jil.kr
 jmail.ro
+jmail.ovh
 jnxjn.com
 jobbikszimpatizans.hu
 jobposts.net
@@ -1865,6 +1870,7 @@ kloap.com
 kludgemush.com
 klzlk.com
 kmhow.com
+ksmtrck.tk
 knol-power.nl
 koiqe.com
 kommunity.biz
@@ -2169,6 +2175,7 @@ mailpick.biz
 mailpooch.com
 mailproxsy.com
 mailquack.com
+mailrazer.com
 mailrc.biz
 mailrock.biz
 mailsac.com
@@ -2189,6 +2196,7 @@ mailtemporaire.fr
 mailthunder.ml
 mailtome.de
 mailtothis.com
+mailtraps.com
 mailtrash.net
 mailtrix.net
 mailtv.net
@@ -2434,6 +2442,7 @@ new-purse.com
 newbpotato.tk
 newdawnnm.xyz
 nextstopvalhalla.com
+next.ovh
 nezdiro.org
 nezzart.com
 nfast.net
@@ -2769,6 +2778,7 @@ rawhidefc.org
 rawmails.com
 rax.la
 raxtest.com
+razemail.com
 rbb.org
 rblx.site
 rcasd.com
@@ -2897,6 +2907,7 @@ scbox.one.pl
 schachrol.com
 schafmail.de
 schmeissweg.tk
+schmid.cf
 schrott-email.de
 sd3.in
 sdf.org
@@ -3248,6 +3259,7 @@ temp-mail.de
 temp-mail.net
 temp-mail.org
 temp-mail.ru
+temp-mails.com
 temp.emeraldwebmail.com
 temp.headstrong.de
 temp1.club
@@ -3527,6 +3539,7 @@ ushijima1129.ml
 ushijima1129.tk
 utiket.us
 uu.gl
+uu2.ovh
 uvy.kr
 uwork4.us
 uyhip.com
