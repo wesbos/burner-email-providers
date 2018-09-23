@@ -968,6 +968,7 @@ domforfb8.tk
 domforfb9.tk
 domozmail.com
 donemail.ru
+donot-reply.com
 dontreg.com
 dontsendmespam.de
 doquier.tk
@@ -1000,6 +1001,7 @@ drynic.com
 dsiay.com
 dspwebservices.com
 dt.com
+dtools.info
 duam.net
 duck2.club
 dudmail.com
@@ -2176,6 +2178,7 @@ mailnull.com
 mailonaut.com
 mailorc.com
 mailorg.org
+mailox.biz
 mailpick.biz
 mailpooch.com
 mailproxsy.com
