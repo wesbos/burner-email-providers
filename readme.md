@@ -19,3 +19,7 @@ Please send a PR with any new ones you find.
 
 * [Burnex](https://github.com/Betree/burnex)
 
+### Go
+
+* [DED](https://github.com/namreg/ded)
+
