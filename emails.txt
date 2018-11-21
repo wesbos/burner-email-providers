@@ -947,6 +947,7 @@ dm.w3internet.co.ukexample.com
 dma.in-ulm.de
 dmail.kyty.net
 dmarc.ro
+dnsabr.com
 dnsdeer.com
 dnses.ro
 doanart.com
