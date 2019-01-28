@@ -1,4 +1,4 @@
-# A list of burner email addresses
+# A list of burner email providers
 
 Throw away email addresses (burner emails) are great for single use signups where you would like the content but rather not give up your email.
 
@@ -6,7 +6,20 @@ I'm okay with people using burner email addresses to get my free content, I just
 
 Please send a PR with any new ones you find. 
 
-Thinking about adding a JSON api as well - let me know if this would be useful.
+## APIs
 
+### Free
 
+* [Disposable](https://github.com/0x19/disposable)
+* [Disposable Email Detector](https://www.disposable-email-detector.com)
+
+## Libraries
+
+### Elixir
+
+* [Burnex](https://github.com/Betree/burnex)
+
+### Go
+
+* [DED](https://github.com/namreg/ded)
 
