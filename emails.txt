@@ -1444,6 +1444,7 @@ getairmail.gq
 getairmail.ml
 getairmail.tk
 getapet.net
+getcoolmail.info
 geteit.com
 get-mail.cf
 get-mail.ga
@@ -1654,6 +1655,7 @@ hot-mail.cf
 hot-mail.ga
 hot-mail.gq
 hot-mail.ml
+hotmailpro.info
 hotmails.com
 hot-mail.tk
 hotmial.com
@@ -2141,6 +2143,7 @@ mailbox72.biz
 mailbox80.biz
 mailbox87.de
 mailbox92.biz
+mailboxy.fun
 mailbucket.org
 mail.by
 mailcat.biz
@@ -2235,6 +2238,7 @@ mailox.biz
 mail.partskyline.com
 mailpick.biz
 mailpooch.com
+mailprotech.com
 mailproxsy.com
 mailquack.com
 mailrazer.com
@@ -2506,6 +2510,7 @@ nepwk.com
 nervmich.net
 nervtmich.net
 netmails.com
+netmails.info
 netmails.net
 netricity.nl
 netris.net
@@ -2514,6 +2519,7 @@ netviewer-france.com
 netzidiot.de
 neverbox.com
 nevermail.de
+newairmail.com
 newbpotato.tk
 newdawnnm.xyz
 new-purse.com
@@ -2695,6 +2701,7 @@ paller.cf
 pancakemail.com
 papierkorb.me
 paplease.com
+parcel4.net
 parkcrestlakewood.xyz
 parlimentpetitioner.tk
 partskyline.com
@@ -3362,6 +3369,7 @@ temp1.club
 temp2.club
 tempail.com
 tempalias.com
+tempcloud.info
 tempemail.biz
 tempe-mail.com
 tempemail.com
@@ -3419,6 +3427,7 @@ thecloudindex.com
 thediamants.org
 thelightningmail.net
 thelimestones.com
+themailpro.net
 thembones.com.au
 themostemail.com
 theopposition.club
@@ -3770,6 +3779,7 @@ web.id
 web-ideal.fr
 webm4il.info
 web-mail.pp.ua
+webmails.top
 webmeetme.com
 webtrip.ch
 webuser.in
