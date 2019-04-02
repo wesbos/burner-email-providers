@@ -2,25 +2,25 @@
 
 Throw away email addresses (burner emails) are great for single use signups where you would like the content but rather not give up your email.
 
-I'm okay with people using burner email addresses to get my free content, I just need to be able to filter them out of my list so it doesn't drive up bounces and hurt deliverability. 
+I'm okay with people using burner email addresses to get my free content, I just need to be able to filter them out of my list so it doesn't drive up bounces and hurt deliverability.
 
-Please send a PR with any new ones you find. 
+Please send a PR with any new ones you find.
 
 ## APIs
 
 ### Free
 
-* [Disposable](https://github.com/0x19/disposable)
-* [Disposable Email Detector](https://www.disposable-email-detector.com)
-* [Verifier](https://verifier.meetchopra.com/)
+- [Disposable](https://github.com/0x19/disposable)
+- [Disposable Email Detector](https://www.disposable-email-detector.com)
+- [Verifier](https://verifier.meetchopra.com/)
+- [Validator.pizza](https://www.validator.pizza/)
 
 ## Libraries
 
 ### Elixir
 
-* [Burnex](https://github.com/Betree/burnex)
+- [Burnex](https://github.com/Betree/burnex)
 
 ### Go
 
-* [DED](https://github.com/namreg/ded)
-
+- [DED](https://github.com/namreg/ded)
