@@ -844,6 +844,7 @@ clipmail.ml
 clipmail.tk
 cliptik.net
 clixser.com
+cloud-mail.net
 cloud99.pro
 cloud99.top
 cloudns.asia
@@ -1543,6 +1544,7 @@ freeinbox.email
 freelance-france.eu
 freeletter.me
 freemail.ms
+freemaillink.com
 freemails.cf
 freemails.ga
 freemails.ml
@@ -2355,16 +2357,20 @@ mail-address.live
 mail-apps.com
 mail-apps.net
 mail-cart.com
+mail-click.net
 mail-easy.fr
 mail-fake.com
 mail-filter.com
 mail-finder.net
+mail-group.net
 mail-hub.info
 mail-list.top
 mail-owl.com
+mail-point.net
 mail-pro.info
 mail-register.com
 mail-share.com
+mail-space.net
 mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
@@ -2498,6 +2504,7 @@ mailkor.xyz
 maillink.info
 maillink.live
 maillink.top
+maillist.in
 mailmate.com
 mailme.gq
 mailme.ir
@@ -2588,6 +2595,7 @@ max-direct.com
 max-mail.com
 max-mail.info
 max88.club
+maxmail.in
 maxmail.info
 mbe.kr
 mbx.cc
@@ -2720,6 +2728,9 @@ muellmail.com
 mufux.com
 mugglenet.org
 muimail.com
+müll.email
+müllemail.com
+müllmail.com
 munoubengoshi.gq
 mustbedestroyed.org
 mutant.me
@@ -2787,9 +2798,6 @@ mytrommleronline.com
 mywarnernet.net
 mywrld.top
 myzx.com
-müll.email
-müllemail.com
-müllmail.com
 n1nja.org
 nabuma.com
 nacho.pw
@@ -3215,6 +3223,7 @@ quick-mail.online
 quickemail.info
 quickinbox.com
 quickmail.best
+quickmail.in
 quickmail.nl
 quickmail.rocks
 quickreport.it
@@ -3495,10 +3504,11 @@ sikux.com
 siliwangi.ga
 silvercoin.life
 sim-simka.ru
+simpleemail.in
 simpleemail.info
 simpleitsecurity.info
+simplemail.in
 simscity.cf
-simpleemail.in
 sin.cl
 sinda.club
 sinema.ml
@@ -4136,6 +4146,7 @@ valhalladev.com
 vanacken.xyz
 vankin.de
 vba.kr
+vcbox.pro
 vctel.com
 vda.ro
 vdig.com
