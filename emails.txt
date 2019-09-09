@@ -27,6 +27,7 @@
 10mail.com
 10mail.org
 10minut.com.pl
+10minute.cf
 10minute-email.com
 10minutemail.be
 10minutemailbox.com
@@ -628,6 +629,7 @@ bio-muesli.net
 bione.co
 biosor.cf
 bit2tube.com
+bitchmail.ga
 bit-degree.com
 bitwerke.com
 bitwhites.top
@@ -883,10 +885,10 @@ codupmyspace.com
 codyting.com
 cognitiveways.xyz
 coieo.com
-coin-one.com
 coinbroker.club
 coinlink.club
 coin-link.com
+coin-one.com
 colafanta.cf
 coldemail.info
 colorweb.cf
@@ -2303,6 +2305,7 @@ link2mail.net
 linkedintuts2016.pw
 linshiyouxiang.net
 linuxmail.so
+linuxmail.tk
 linuxpl.eu
 linx.email
 liquidmail.de
@@ -2365,6 +2368,9 @@ lukemail.info
 lukop.dk
 luo.kr
 luv2.us
+luxusmail.gq
+luxusmail.tk
+luxusmail.uk
 lyfestylecreditsolutions.com
 m21.cc
 m2r60ff.com
@@ -3015,6 +3021,8 @@ omnievents.org
 one2mail.info
 onebiginbox.com
 onecitymail.com
+onedaymail.cf
+onedaymail.ga
 onelegalplan.com
 onemail1.com
 onemoremail.net
