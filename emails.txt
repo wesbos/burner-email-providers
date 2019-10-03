@@ -81,6 +81,7 @@
 1secmail.com
 1secmail.net
 1secmail.org
+1secmail.xyz
 1s.fr
 1shivom.com
 1ss.noip.me
@@ -110,6 +111,7 @@
 24hourmail.com
 24hourmail.net
 291.usa.cc
+2anom.com
 2ch.coms.hk
 2ch.orgs.hk
 2-ch.space
@@ -151,6 +153,7 @@
 4alphapro.com
 4easyemail.com
 4.fackme.gq
+4free.li
 4gfdsgfdgfd.tk
 4mail.cf
 4mail.ga
@@ -337,6 +340,7 @@ akapost.com
 akash9.gq
 akerd.com
 akgq701.com
+aklqo.com
 akorde.al
 aktiefmail.nl
 albionwe.us
@@ -884,6 +888,7 @@ codeandscotch.com
 codivide.com
 codupmyspace.com
 codyting.com
+coffeelovers.life
 cognitiveways.xyz
 coieo.com
 coinbroker.club
@@ -931,7 +936,9 @@ crankmails.com
 crapmail.org
 crastination.de
 crazespaces.pw
+crazymail.info
 crazymailing.com
+crazymail.online
 cr.cloudns.asia
 cream.pink
 creazionisa.com
@@ -1556,6 +1563,8 @@ freeblackbootytube.com
 freebullets.net
 freecat.net
 freechristianbookstore.com
+freedom.casa
+freedom-mail.ga
 freedompop.us
 free-email.cf
 free-email.ga
@@ -1713,6 +1722,7 @@ g-meil.com
 gmial.com
 gmx.dnsabr.com
 gmx.dns-cloud.net
+gn8.cc
 gnctr-calgary.com
 go2usa.info
 go2vpn.net
@@ -1827,6 +1837,7 @@ happykoreas.xyz
 happymail.guru
 haqed.com
 harakirimail.com
+hard-life.org
 haribu.com
 haribu.net
 harmonyst.xyz
@@ -2071,6 +2082,9 @@ islam.igg.biz
 ispuntheweb.com
 ispyco.ru
 istakalisa.club
+ist-genial.at
+ist-genial.info
+ist-genial.net
 istii.ro
 isukrainestillacountry.com
 it7.ovh
@@ -2256,6 +2270,7 @@ lags.us
 lain.ch
 lajoska.pe.hu
 lakelivingstonrealestate.com
+lalala.fun
 lalamailbox.com
 lal.kr
 landmail.co
@@ -2317,6 +2332,7 @@ lkgn.se
 lko.kr
 llogin.ru
 lmcudh4h.com
+ln0hio.com
 loadby.us
 loan101.pro
 loanins.org
@@ -2553,6 +2569,7 @@ mailorc.com
 mailorg.org
 mail-owl.com
 mailox.biz
+mailox.fun
 mail.partskyline.com
 mailpick.biz
 mailpm.live
@@ -2697,6 +2714,7 @@ miraigames.net
 misterpinball.de
 mji.ro
 mjukglass.nu
+mk24.at
 mko.kr
 mkpfilm.com
 ml8.ca
@@ -2725,6 +2743,7 @@ moncourrier.fr.nf
 monemail.fr.nf
 moneypipe.net
 monmail.fr.nf
+montokop.pw
 monumentmail.com
 moonwake.com
 moot.es
@@ -3145,6 +3164,7 @@ pleasenoham.org
 plexolan.de
 plhk.ru
 ploae.com
+plutocow.com
 plw.me
 po.bot.nu
 podam.pl
@@ -3457,6 +3477,7 @@ sawoe.com
 saynotospams.com
 sazhimail.ooo
 s.bungabunga.cf
+sburningk.com
 scatmail.com
 scay.net
 scbox.one.pl
@@ -3607,6 +3628,7 @@ smapfree24.eu
 smapfree24.info
 smapfree24.org
 smartbusiness.me
+smart-email.me
 smart-mail.info
 smart-mail.top
 smashmail.de
@@ -3969,6 +3991,7 @@ throwawayemail.com
 throwawaymail.com
 throya.com
 thrubay.com
+thtt.us
 thunkinator.org
 thxmate.com
 tic.ec
@@ -4119,6 +4142,7 @@ tucumcaritonite.com
 tug.minecraftrabbithole.com
 turoid.com
 turual.com
+tutye.com
 tvchd.com
 tverya.com
 tweakly.net
@@ -4323,6 +4347,7 @@ watch-harry-potter.com
 watchironman3onlinefreefullmovie.com
 wawi.es
 wazabi.club
+wbdev.tech
 wbml.net
 weave.email
 web2mailco.com
@@ -4626,9 +4651,3 @@ zxcvbnm.com
 zxcv.com
 zxcxc.com
 zzi.us
-ist-genial.net
-ist-genial.info
-ist-genial.at
-4free.li
-gn8.cc
-mk24.at
