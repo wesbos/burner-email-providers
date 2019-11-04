@@ -22,7 +22,7 @@ Please send a PR with any new ones you find.
 
 ### Go
 
-* [DED](https://github.com/namreg/ded)
+* [DED](https://github.com/namreg/ded) (__Reported not working__)
 
 ### NodeJs
 
