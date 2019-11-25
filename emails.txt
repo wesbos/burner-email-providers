@@ -1287,6 +1287,7 @@ emailage.ml
 emailage.tk
 emailapps.in
 emailapps.info
+emailcu.icu
 emaildienst.de
 emailfake.com
 emailfake.ml
@@ -4503,6 +4504,7 @@ xjoi.com
 xl.cx
 xlgaokao.com
 xmail.com
+xmail365.net
 xmaily.com
 xn--9kq967o.com
 xost.us
