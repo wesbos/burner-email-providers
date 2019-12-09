@@ -4545,6 +4545,16 @@ yellow.flu.cc
 yellow.igg.biz
 yentzscholarship.xyz
 yep.it
+yepmail.app
+yepmail.cc
+yepmail.club
+yepmail.co
+yepmail.email
+yepmail.id
+yepmail.in
+yepmail.to
+yepmail.us
+yepmail.ws
 yeppee.net
 yertxenon.tk
 yesaccounts.net
