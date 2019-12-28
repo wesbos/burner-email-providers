@@ -20,6 +20,7 @@
 0x00.name
 0x207.info
 1-8.biz
+10-minute-mail.de
 10.dns-cloud.net
 1000rebates.stream
 100likers.com
