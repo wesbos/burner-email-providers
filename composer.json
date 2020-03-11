@@ -1,0 +1,15 @@
+{
+    "name": "wesbos/burner-email-providers",
+    "description": "A list of burner email providers.",
+    "license": "proprietary",
+    "authors": [ { "name": "Wes Bos & contributors" } ],
+    "support": {
+        "source": "https://github.com/wesbos/burner-email-providers"
+    },
+    "keywords": [ "email" ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
