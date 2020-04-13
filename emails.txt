@@ -2804,6 +2804,7 @@ msa.minsmail.com
 msft.cloudns.asia
 msgden.com
 msgos.com
+msgsafe.io
 msgsafe.ninja
 msk.ru
 mspeciosa.com
