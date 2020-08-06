@@ -3429,6 +3429,7 @@ nokiamail.com
 nom.za
 nomail.cf
 nomail.ch
+nomail.fr
 nomail.ga
 nomail.nodns.xyz
 nomail.pw
