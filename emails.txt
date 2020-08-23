@@ -250,7 +250,6 @@
 8191.at
 82c8.com
 888.dns-cloud.net
-888.dnS-clouD.NET
 88av.net
 88clean.pro
 8chan.co
@@ -540,7 +539,7 @@ arockee.com
 aron.us
 arroisijewellery.com
 art-en-ligne.pro
-ARTEMSHYPULYA.DNS.ARMY
+artemshypulya.dns.army
 arthursbox.com
 artman-conception.com
 arur01.tk
@@ -608,7 +607,6 @@ azcomputerworks.com
 azjuggalos.com
 azmeil.tk
 b.cr.cloudns.asia
-B.cr.cloUdnS.asia
 b.yertxenor.tk
 b0.nut.cc
 b1of96u.com
@@ -663,7 +661,6 @@ bcb.ro
 bccto.me
 bcompiled3.com
 bd.dns-cloud.net
-BD.dns-cloud.net
 bdmuzic.pw
 be-breathtaking.net
 bearsarefuzzy.com
@@ -1049,7 +1046,6 @@ cpamail.net
 cpmail.life
 cpsystems.ru
 cr.cloudns.asia
-CR.cloudns.asia
 cr97mt49.com
 crankhole.com
 crankmails.com
@@ -1231,13 +1227,11 @@ disign-revelation.com
 dispo.in
 dispomail.eu
 disposable-e.ml
-Disposable-e.ml
 disposable-email.ml
 disposable-mail.com
 disposable.cf
 disposable.ga
 disposable.ml
-Disposable.ml
 disposableaddress.com
 disposableemail.org
 disposableemailaddresses.com
@@ -1358,9 +1352,7 @@ durandinterstellar.com
 duskmail.com
 dutiesu0.com
 dvd.dns-cloud.net
-DVD.dns-cloud.net
 dvd.dnsabr.com
-DVD.dnsabr.com
 dvx.dnsabr.com
 dw.now.im
 dwse.edu.pl
@@ -3203,7 +3195,6 @@ mrmail.info
 mrresourcepacks.tk
 msa.minsmail.com
 msft.cloudns.asia
-MSFT.cloudns.asia
 msgden.com
 msgos.com
 msgsafe.io
@@ -4117,9 +4108,7 @@ shiphazmat.org
 shipping-regulations.com
 shippingterms.org
 shit.dns-cloud.net
-SHIT.dns-cloud.net
 shit.dnsabr.com
-SHIT.dnsabr.com
 shitaway.cf
 shitaway.flu.cc
 shitaway.ga
@@ -4355,7 +4344,6 @@ sroff.com
 sry.li
 ssgjylc1013.com
 ssl.tls.cloudns.asia
-ssl.tls.cloudns.ASIA
 ssoia.com
 ssongs34f.com
 staircraft5.com
@@ -4619,7 +4607,6 @@ tkmy88m.com
 tko.kr
 tlpn.org
 tls.cloudns.asia
-TLS.cloudns.asia
 tm.slsrs.ru
 tm2mail.com
 tmail.com
@@ -5323,7 +5310,6 @@ yui.it
 yuoia.com
 yuurok.com
 yx.dns-cloud.net
-YX.dns-cloud.net
 yx48bxdv.ga
 yxzx.net
 yy-h2.nut.cc
