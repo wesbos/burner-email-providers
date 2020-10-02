@@ -323,7 +323,6 @@
 08034.monster
 080mail.com
 0815.ru
-0815.ry
 0815.su
 08221.monster
 08236.monster
@@ -21818,7 +21817,6 @@ cc-s3x.ga
 cc-s3x.gq
 cc-s3x.ml
 cc-s3x.tk
-cc.liamria
 cc.mailboxxx.net
 cc0d.com
 cc2ilplyg77e.cf
@@ -24655,7 +24653,6 @@ com-tca64rtel.xyz
 com-ty.biz
 com-xd5r29y97r.com
 com-xvrv6yt51g.com
-com.ar
 com.ninja
 com3b.com
 comagrilsa.com
@@ -54206,7 +54203,6 @@ kirklareliprefabrik.xyz
 kirkorov2019.ru
 kiro22.com
 kironpoint.com
-kirt.er
 kirurgkliniken.nu
 kiryubox.cu.cc
 kisan.org
@@ -67499,7 +67495,6 @@ net-list.com
 net-piyango.biz
 net-privichkam.ru
 net-solution.info
-net.ua
 net191.com
 net1mail.com
 net2222.com
@@ -68868,7 +68863,6 @@ nologyt.shop
 nolpokh.site
 nolted.ru
 nolvadex.website
-nom.za
 nomadproject.dev
 nomadsretire.com
 nomadtraderoute.com
@@ -68925,7 +68919,6 @@ nondtenon.tk
 nonegray.info
 nonescent.xyz
 nonewanimallab.com
-nonexisted.nondomain
 nongame.best
 nonglex.tech
 nongzaa.cf
@@ -71755,7 +71748,6 @@ orfulle.gq
 orfulle.ml
 orfulle.tk
 org-archive.com
-org.ua
 organic.in
 organiccoffeeplace.com
 organicfarming101.com
@@ -102902,7 +102894,6 @@ web-site-sale.ru
 web-sites-sale.ru
 web-wingmen.com
 web.discard-email.cf
-web.id
 web2mailco.com
 web2rss.com
 web2web.bid
@@ -110105,7 +110096,6 @@ zowtaguz.shop
 zowuto.info
 zozoprint.com
 zozugo.info
-zp.ua
 zp4.info
 zp5d0a.com
 zpapa.ooo
