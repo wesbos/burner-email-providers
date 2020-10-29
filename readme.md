@@ -34,6 +34,10 @@ Please send a PR with any new ones you find.
 
 * [secit-pl/validation-bundle](https://github.com/secit-pl/validation-bundle#burneremail)
 
+### Scala
+
+* [Burner4s](https://github.com/ariskk/burner4s)
+
 ## Host your own
 
 * [Docker](https://hub.docker.com/r/emailhippo/dea-id-community-api-wesbos-v1)
