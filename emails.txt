@@ -38793,7 +38793,6 @@ freelymail.com
 freemail-host.info
 freemail.bid
 freemail.co.pl
-freemail.hu
 freemail.men
 freemail.ms
 freemail.nx.cninfo.net
