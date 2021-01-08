@@ -1,7 +1,7 @@
 {
     "name": "wesbos/burner-email-providers",
     "description": "A list of burner email providers.",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [ { "name": "Wes Bos & contributors" } ],
     "support": {
         "source": "https://github.com/wesbos/burner-email-providers"
