@@ -1,0 +1,11 @@
+name: Duplicate check
+on: [push, pull_request]
+
+jobs:
+  duplicate-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # Number of lines should be the same when only printing unique lines
+      - name: Check for duplicates
+        run: '[ "$(wc -l < emails.txt)" -eq "$(sort -u emails.txt | wc -l)" ]'
