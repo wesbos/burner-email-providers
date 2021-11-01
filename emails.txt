@@ -23,10 +23,6 @@
 0018k7.com
 001913.com
 0019k7.com
-<<<<<<< HEAD
-=======
-002288211.com
->>>>>>> removed 001.igg.biz for sort check
 002.city
 002288211.com
 002r.com
