@@ -353,6 +353,7 @@
 10mail.org
 10mi.org
 10minemail.net
+10minmail.de
 10minut.com.pl
 10minut.xyz
 10minute-email.com
@@ -372,6 +373,7 @@
 10minutemail.us
 10minutemailbox.com
 10minutenemail.de
+10minutenmail.xyz
 10minutesmail.com
 10minutesmail.net
 10minutetempemail.com
@@ -19681,6 +19683,7 @@ flexreicnam.ga
 flexreicnam.gq
 flexyvibe.com
 flickershoppe.com
+fliegender.fish
 flightcaster.com
 flightdictionary.com
 flightsap.com
@@ -26377,6 +26380,7 @@ jafethuis.shop
 jaffao.pw
 jafhd.com
 jafps.com
+jaga.email
 jagdglas.de
 jaggernaut-email.bid
 jaggernautemail.bid
@@ -32203,6 +32207,7 @@ mdriver.site
 mdstakeaway.com
 mdtk.us
 mdwo.com
+mdz.email
 mdz39f-mail.xyz
 me2.cuteboyo.com
 meadowsdelmarsd.com
