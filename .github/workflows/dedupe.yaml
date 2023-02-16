@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+  pull_request:
 permissions: write-all
 jobs:
   dedupe:
@@ -25,8 +26,8 @@ jobs:
           git commit -m "[chore]: Sort and dedupe \`emails.txt\`"
           git push
           fi
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
