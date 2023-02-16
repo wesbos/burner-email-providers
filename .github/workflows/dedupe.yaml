@@ -1,7 +1,5 @@
 name: Dedupe and Sort Domains
-on:
-  push:
-  pull_request:
+on: [pull_request_target]
 permissions: write-all
 jobs:
   dedupe:
@@ -23,7 +21,6 @@ jobs:
           # commit only if any changes
           if [ ! -z "$(git status --porcelain)" ]; then
           git commit -m "[chore]: Sort and dedupe \`emails.txt\`"
-          git push
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master
