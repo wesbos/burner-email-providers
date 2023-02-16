@@ -24,6 +24,7 @@ jobs:
           # commit only if any changes
           if [ ! -z "$(git status --porcelain)" ]; then
           git commit -m "[chore]: Sort and dedupe \`emails.txt\`"
+          git push
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master
