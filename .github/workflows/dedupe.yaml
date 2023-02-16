@@ -9,10 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-          ref: ${{github.event.pull_request.head.ref}}
-          repository: ${{github.event.pull_request.head.repo.full_name}}
-          persist-credentials: false
+          ref: ${{ github.event.pull_request.head.sha }}
       # Number of lines should be the same when only printing unique lines
       - name: Check for duplicates and sort alphabetically
         run: grep -v '^$' emails.txt | sort -uo emails.txt
