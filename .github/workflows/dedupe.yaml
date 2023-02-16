@@ -2,7 +2,7 @@ name: Dedupe and Sort Domains
 on:
   push:
   pull_request:
-  pull_request_target
+  pull_request_target:
 permissions: write-all
 jobs:
   dedupe:
