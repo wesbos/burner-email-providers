@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
       # Number of lines should be the same when only printing unique lines
       - name: Check for duplicates and sort alphabetically
         run: grep -v '^$' emails.txt | sort -uo emails.txt
