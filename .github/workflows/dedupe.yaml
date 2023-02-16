@@ -1,0 +1,25 @@
+name: Dedupe and Sort Domains
+on: [push, pull_request]
+
+jobs:
+  dedupe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # Number of lines should be the same when only printing unique lines
+      - name: Check for duplicates and sort alphabetically
+        run: sort -uo emails.txt emails.txt
+      - name: Commit Changes
+        run: |
+          git add emails.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          # commit only if any changes
+          if [ ! -z "$(git status --porcelain)" ]; then
+          git commit -m "chore: Sort and dedupe \`emails.txt\`"
+          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.head_ref }}
