@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - master
-  pull_request:
 permissions: write-all
 jobs:
   dedupe:
