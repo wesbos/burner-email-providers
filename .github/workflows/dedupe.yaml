@@ -1,8 +1,9 @@
 name: Dedupe and Sort Domains
 on:
   push:
+    branches:
+      - master
   pull_request:
-  pull_request_target:
 permissions: write-all
 jobs:
   dedupe:
