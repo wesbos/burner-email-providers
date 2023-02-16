@@ -1,13 +1,8 @@
 name: Dedupe and Sort Domains
 on:
   push:
-    branches:
-      - master
   pull_request:
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
+permissions: write-all
 jobs:
   dedupe:
     runs-on: ubuntu-latest
