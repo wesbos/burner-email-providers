@@ -9,14 +9,18 @@ const resolver = new dns.Resolver({
 
 const resolveMx = resolver.resolveMx.bind(resolver);
 
+const __dirname = new URL('.', import.meta.url).pathname;
+const deadPath = `${__dirname}/dead.txt`;
+const alivePath = `${__dirname}/alive.txt`;
+const emailsPath = `${__dirname}/../emails.txt`;
 
 let count = 0; // This can be our start value in casce things break
-const good = (await readFile("good.txt", "utf8")).split("\n");
-const dead = (await readFile("dead.txt", "utf8")).split("\n");
-const domainTxt = await readFile("../emails.txt", "utf8");
+const alive = (await readFile(alivePath, "utf8")).split("\n");
+const dead = (await readFile(deadPath, "utf8")).split("\n");
+const domainTxt = await readFile(emailsPath, "utf8");
 const domains = domainTxt.split("\n").filter(domain => {
   if(!domain) return false;
-  if(good.includes(domain)) return false;
+  if(alive.includes(domain)) return false;
   if(dead.includes(domain)) return false;
   return true;
 });
@@ -34,7 +38,7 @@ async function checkDomain(domain) {
   if(err || result?.length === 0) {
     if(err?.code === 'ETIMEOUT') {
       console.log(`⏳ ${domain}:`, err?.code);
-      good.push(domain);
+      alive.push(domain);
       return;
     }
     console.log(`❌ ${domain}:`, err?.code || 'No MX records');
@@ -42,7 +46,7 @@ async function checkDomain(domain) {
     return;
   }
   console.log(`✅ ${domain}: ${result.length} records`);
-  good.push(domain);
+  alive.push(domain);
 }
 
 const promises = domains.map(domain => ({ func: checkDomain, args: [domain] }));
@@ -59,10 +63,13 @@ await batchPromise(promises, {
 });
 
 async function save() {
-  await Promise.all([writeFile('good.txt', good.join('\n')),writeFile('dead.txt', dead.join('\n'))]);
+  await Promise.all([
+    writeFile(alivePath, alive.join('\n')),
+    writeFile(deadPath, dead.join('\n'))
+  ]);
 }
 
 console.log(`
-Good: ${good.length}
+Good: ${alive.length}
 Dead: ${dead.length}
 `);
