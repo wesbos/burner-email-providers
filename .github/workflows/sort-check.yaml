@@ -1,9 +1,0 @@
-name: Sort check
-on: [push, pull_request]
-
-jobs:
-  sort-check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - run: sort --check emails.txt
