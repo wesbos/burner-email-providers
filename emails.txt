@@ -739,9 +739,6 @@
 9y222.app
 9ya.de
 9yc4hw.us
-<<<<<<< HEAD
-=======
->>>>>>> e8a414f (Add joeroc.com and related domains)
 Liaphoto.com
 a-action.ru
 a-b.co.za
