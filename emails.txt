@@ -20047,7 +20047,6 @@ tempemail.pro
 tempemail.ru
 tempemailco.com
 tempgmail.ga
-tempmailto.org
 tempikpenyu.xyz
 tempinbox.co.uk
 tempinbox.com
@@ -20097,6 +20096,7 @@ tempmailid.com
 tempmailo.com
 tempmailo.org
 tempmails.cf
+tempmailto.org
 tempo-email.com
 tempo-mail.info
 tempo-mail.xyz
