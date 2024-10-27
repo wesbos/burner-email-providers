@@ -51,3 +51,7 @@ Please send a PR with any new ones you find.
 ## Host your own
 
 * [Docker](https://hub.docker.com/r/emailhippo/dea-id-community-api-wesbos-v1)
+
+## Related links
+
+* [otm-detector](https://github.com/Short-io/otm-detector) - tries to find new burner email provider domains by checking MX records
