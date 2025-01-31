@@ -24,6 +24,7 @@ jobs:
           # commit only if any changes
           if [ ! -z "$(git status --porcelain)" ]; then
           git commit -m "[chore]: Sort and dedupe \`emails.txt\`"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
           git push
           fi
       # - name: Push changes
