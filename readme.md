@@ -21,6 +21,7 @@ Please send a PR with any new ones you find.
 ### Free tier
 
 * [Firefox Relay](https://relay.firefox.com/)
+* [Mailfo](https://mailfo.pages.dev) - Disposable burner inboxes with fast OTP verification delivery and Android app.
 
 
 
