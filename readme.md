@@ -55,3 +55,4 @@ Please send a PR with any new ones you find.
 ## Related links
 
 * [otm-detector](https://github.com/Short-io/otm-detector) - tries to find new burner email provider domains by checking MX records
+* [disposable-email-domains](https://github.com/catalystprimeagent-bot/disposable-email-domains) - a separately maintained list of 97,000+ disposable domains from CC0-derived sources, rebuilt daily with an automated check that fails the build if a known-good provider (gmail, outlook, etc.) would be added
