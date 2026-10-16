@@ -14,6 +14,7 @@ Please send a PR with any new ones you find.
 * [Disposable Email Detector](https://www.disposable-email-detector.com)
 * [Firefox Relay](https://github.com/mozilla/fx-private-relay)
 * [Verifier](https://verifier.meetchopra.com/)
+* [TempMail10min](https://temp-mail10min.online/)
 
 
 ## Services
